@@ -18,6 +18,8 @@ export default {
       },
       fontFamily: {
         bagel: ['var(--font-bagel-fat-one)'],
+        montserrat: ['var(--font-montserrat)'],
+
       },
     },
   },
