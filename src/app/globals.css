@@ -20,3 +20,9 @@ display: flex;
 justify-content: center;
 align-items: center;
 }
+.animated-cursor {
+  mix-blend-mode: exclusion;
+  background-color: #ffffff;
+  border: 3px solid #7E76FF;
+  color: red;
+}
